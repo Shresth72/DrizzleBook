@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1696803385601,
+      "tag": "0000_nervous_mockingbird",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1696804454024,
+      "tag": "0001_living_the_anarchist",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1696804805976,
+      "tag": "0002_careless_makkari",
+      "breakpoints": false
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1696805118688,
+      "tag": "0003_rainy_expediter",
+      "breakpoints": false
+    }
+  ]
+}
